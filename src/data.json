@@ -1,0 +1,181 @@
+{
+    "title": "software engineer",
+    "name": "mohamed sofiene barka",
+    "objective": "A Network Engineering Student & Fullstack web Developer, interested in hitting the ground of anything infrastructure related. built on Web3 Solana. keeping an eye on Blockchain, AI and Cybersecurity. creator of The Programming Battle Royale platform. ",
+    "linkedin": {
+        "label": "Mohamed Sofiene",
+        "link": "https://www.linkedin.com/in/nie-mand/"
+    },
+    "github": {
+        "label": "Nie-Mand",
+        "link": "https://github.com/Nie-Mand/"
+    },
+    "email": {
+        "label": "Email",
+        "link": "mailto:chill.out.x19@gmail.com"
+    },
+    "phone": {
+        "label": "+216 51 893 624",
+        "link": "tel:+21651893624"
+    },
+    "education": {
+        "school": "INSAT | National Institute of Applied Sciences and Tech. Tunis",
+        "period": "2019-Present",
+        "description": [
+            "Network & Telecommunications Engineering",
+            "named as an honorable member in ACM INSAT Club",
+            "competed in 2 TCPC, 2 IEEEXTREME editions & +5 Hackathons"
+        ]
+    },
+    "skills": {
+        "primary": [
+            "reactjs",
+            "typescript",
+            "redux",
+            "nodejs",
+            "postgresql",
+            "python",
+            "mongodb",
+            "sql"
+        ],
+        "familiar": [
+            "graphql",
+            "redis",
+            "go",
+            "docker",
+            "kubernetes",
+            "ci/cd",
+            "aws"
+        ]
+    },
+    "experience": [
+        {
+            "period": "February 2022 - Current",
+            "company": "street car hub - part time",
+            "title": "Lead Developer",
+            "stack": [
+                "typescript",
+                "ReactJS",
+                "Redux",
+                "NextJS"
+            ],
+            "bullets": [
+                "helped in writing the tasks and the sprints for a project",
+                "Created an optimized Boilerplate to be used in production for future projects",
+                "managed and reviewed code for the new interns"
+            ]
+        },
+        {
+            "period": "summer 2021",
+            "company": "street car hub - intern",
+            "title": "frontend developer",
+            "stack": [
+                "JavaScript",
+                "ReactJS",
+                "Redux",
+                "NextJS"
+            ],
+            "bullets": [
+                "Implemented a Calendar view to handle appointments for an Ophthalmologist platform and their CRUD operations",
+                "Assembled with a team Chat features for the clients version of the app"
+            ]
+        },
+        {
+            "period": "summer 2021",
+            "company": "siporty - intern",
+            "title": "web developer",
+            "stack": [
+                "JavaScript",
+                "Angular",
+                "ExpressJS",
+                "MongoDB"
+            ],
+            "bullets": [
+                "Developed with the team a Donation platform to support content creators",
+                "Troubleshooted with the team the Frontend Bugs"
+            ]
+        },
+        {
+            "company": "freelance",
+            "title": "web developer",
+            "stack": [
+                "typescript",
+                "react native",
+                "reactjs"
+            ],
+            "bullets": [
+                "refactored an existing app and added more features",
+                "created a portfolio for an influencer",
+                "created a mobile app",
+                "coded a landing page based on an exisiting design"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "company": "the programming battle royale",
+            "stack": [
+                "Typescript",
+                "ReactJS",
+                "Redux",
+                "GraphQL",
+                "ExpressJS",
+                "postgresql",
+                "redis",
+                "azure",
+                "aws",
+                "sql",
+                "kubernetes"
+            ],
+            "bullets": [
+                "built a Round based Competitive Programming Platform with Elimination process",
+                "monitored and ran a university competition hosted in the platform"
+            ]
+        },
+        {
+            "company": "DevOps Final Year Project", 
+            "stack": [
+                "go",
+                "Typescript",
+                "Kubernetes",
+                "GitLab",
+                "ELK",
+                "ArgoCD"
+            ],
+            "bullets": [
+                "built the \"proof of concept\" backend services for a memes app",
+                "collaborated with the team to deploy the app to Kubernetes",
+                "configured the monitoring stack for the app" 
+            ]
+        },
+        {
+            "company": "Open Source Projects", 
+            "stack": [
+                "Typescript",
+                "ReactJS",
+                "Redux"
+            ],
+            "bullets": [
+                "created \"claas\", a react library to inject CSS Class names",
+                "composed react battery included boilerplates"
+            ]
+        },
+        {
+            "company": "Blockchain projects", 
+            "stack": [
+                "Solana",
+                "Typescript",
+                "Discord API",
+                "PostgreSQL",
+                "ReactJS",
+                "MongoDB",
+                "Web3"
+            ],
+            "bullets": [
+                "Implemented \"Shift IDE\" a web based IDE for Solana Smart contracts that're written in Rust",
+                "Conducted in team \"NICO Bot\", a solana blockchain discord bot",
+                "Developed in a team an NFT marketplace atop of the Solana Blockchain called \"Sollectify\""
+            ]
+        }
+    ]
+}

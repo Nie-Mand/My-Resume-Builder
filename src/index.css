@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: gt;
+  font-weight: 100;
+  src: url(/fonts/gt-light.woff2);
+}
+
+@font-face {
+  font-family: gt;
+  font-weight: 400;
+  src: url(/fonts/gt-regular.woff2);
+}
+
+@font-face {
+  font-family: gt;
+  font-weight: 700;
+  src: url(/fonts/gt-bold.woff2);
+}
+
+@font-face {
+  font-family: gt;
+  font-weight: 900;
+  src: url(/fonts/gt-black.woff2);
+}
+
+.font-gt {
+  font-family: gt;
+}
