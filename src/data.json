@@ -57,12 +57,14 @@
                 "typescript",
                 "ReactJS",
                 "Redux",
-                "NextJS"
+                "NextJS",
+                "AWS",
+                "Terraform"
             ],
             "bullets": [
                 "helped in writing the tasks and the sprints for a project",
                 "Created an optimized Boilerplate to be used in production for future projects",
-                "managed and reviewed code for the new interns"
+                "Automated projects deployment on AWS with Terraform"
             ]
         },
         {
